@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Тарас Першин](https://up.htmlacademy.ru/htmlcss/30/user/1598397).
-* Наставник: [Марина Удовенко](https://htmlacademy.ru/profile/id7570)
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim)
 
 ---
 
